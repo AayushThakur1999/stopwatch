@@ -1,5 +1,5 @@
 # Stopwatch
-A stopwatch made using HTML, CSS and JavaScript.
+A stopwatch made using HTML, CSS and JavaScript. [Click Here](https://aayushthakur1999.github.io/stopwatch/) to view the project live.
 
 ## HTML
 Used simple div and button tags. Add unique ID's and classes to them.

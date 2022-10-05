@@ -52,7 +52,7 @@ function updateTime(){
     mins = pad(mins);
     secs = pad(secs);
 
-    timeDisplay.textContent = `:${hrs}:${mins}:${secs}:${millis}`;
+    timeDisplay.textContent = `${hrs}:${mins}:${secs}:${millis}`;
     
     function pad(unit){
         return ("0" + unit).length > 2 ? unit : ("0" + unit);
