@@ -1,0 +1,3 @@
+# Added this file to show the languages used in the project
+app/* linguist-documentation=false
+app/* linguist-vendored
